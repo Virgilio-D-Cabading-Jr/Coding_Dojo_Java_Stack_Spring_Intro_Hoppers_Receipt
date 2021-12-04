@@ -1,4 +1,4 @@
-package com.vcabading.hellohuman;
+package com.vcabading.hoppersreceipt;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

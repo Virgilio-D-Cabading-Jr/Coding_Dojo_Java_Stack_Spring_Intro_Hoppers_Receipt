@@ -1,4 +1,4 @@
-package com.vcabading.hellohuman;
+package com.vcabading.hoppersreceipt;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
