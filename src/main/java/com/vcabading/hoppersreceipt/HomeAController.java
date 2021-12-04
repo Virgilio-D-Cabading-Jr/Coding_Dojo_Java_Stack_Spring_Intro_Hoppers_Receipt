@@ -11,11 +11,11 @@ public class HomeAController {
     public String index(Model model) {
         
 		//	//// Initialize Variables ///////////////////////////
-        String name = "Grace Hopper";
-        String itemName = "Copper wire";
-        double price = 5.25;
-        String description = "Metal strips, also an illustration of nanoseconds.";
-        String vendor = "Little Things Corner Store";
+        String name = "Dwayne Johnson";
+        String itemName = "Hot Sauce";
+        double price = 6.789;
+        String description = "Can you smelllllllll what the Rock's cooking?";
+        String vendor = "You Know";
         
         model.addAttribute("name", name);
         model.addAttribute("itemName", itemName);
